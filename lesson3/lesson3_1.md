@@ -73,3 +73,17 @@ FROM  student
 ORDER BY student_id DESC
 LIMIT 3;
 ```
+
+
+```sql
+UPDATE student
+SET name = '阿柱',
+    major = '數學'
+WHERE student_id = 2;
+
+DELETE FROM student
+WHERE student_id = 2;
+
+DELETE FROM student
+WHERE student_id in (1, 3, 4);
+```
