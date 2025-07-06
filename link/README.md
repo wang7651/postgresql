@@ -5,3 +5,10 @@ https://youtube.com/live/iw-aCxiCQyw
 https://youtube.com/live/Msm6RPBG_vA
 
 ---
+
+## 2025_07_06_上午
+https://youtube.com/live/YQa7Rhs0F8c
+
+## 2025_07_06_下午
+https://youtube.com/live/yp2q2Q2QEp8
+
