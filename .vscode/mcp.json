@@ -1,15 +1,14 @@
-/* 錯誤容器內沒有docker命令
+
 {
     "servers": {
-        "dokcerpostgres": {
-            "command": "docker",
-            "args": [
-                "run", 
-                "-i", 
-                "--rm", 
-                "mcp/postgres", 
-                "postgresql://postgres:raspberry@host.docker.internal:5432/postgres"]    
-        },
+        "postgres": {
+        "command": "npx",
+        "args": [
+        "-y",
+        "@modelcontextprotocol/server-postgres",
+        "postgresql://postgres:raspberry@host.docker.internal:5432/postgres"
+      ]
+    }
     },
 }
-*/
+
