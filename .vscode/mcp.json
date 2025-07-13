@@ -1,7 +1,7 @@
 
 {
     "servers": {
-        "postgres": {
+        "vscode_postgres": {
         "command": "npx",
         "args": [
         "-y",
