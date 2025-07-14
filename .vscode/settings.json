@@ -1,4 +1,3 @@
-/*
 {
     "chat.mcp.discovery.enabled": true,
 
@@ -13,4 +12,3 @@
     // Trim trailing whitespace when saving a file.
     "files.trimTrailingWhitespace": true
 }
-*/
