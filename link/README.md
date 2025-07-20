@@ -20,3 +20,7 @@ https://youtube.com/live/PKr6E5KxrAM
 ## 2025_07_13_下午
 https://youtube.com/live/S7rpUvr5FU0
 
+---
+## 2025_07_13_上午
+https://www.youtube.com/watch?v=EQR0tc-FDKQ
+
