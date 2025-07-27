@@ -22,6 +22,7 @@ def connect_to_database():
     """連接到 PostgreSQL 資料庫"""
     try:
         conn = psycopg2.connect(**DB_CONFIG)
+        # **DB_CONFIG 會將字典中的每個鍵值對展開成關鍵字參數（如 dbname=..., user=... 等）
         return conn
     except Exception as e:
         print(f"資料庫連線錯誤: {e}")
@@ -48,4 +49,4 @@ def main():
     print("資料庫連接已關閉")
 
 if __name__ == "__main__":
-    main()
+        main()
